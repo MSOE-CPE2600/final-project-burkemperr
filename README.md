@@ -8,8 +8,9 @@ Besides being a lab assignment the purpose of this program is to create a voting
 
 #### Sample Output    
     Enter username: 
-input: bob
-output:
+##### input: 
+    bob
+##### output:
     Vote for your favorite subject!
     Subjects:
     1. Math
@@ -17,8 +18,9 @@ output:
     3. Science
     4. History
     Enter your vote (1-4): 
-input:4
-output:
+##### input:
+    4
+##### output:
     Vote submitted successfully!
-When the terminal runs out of time output:
+##### When the terminal runs out of time output:
     Voting terminal exiting...
